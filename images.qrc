@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>ico/ico/close grey.png</file>
+    <file>ico/ico/small.png</file>
+    <file>ico/ico/close.png</file>
+    <file>ico/ico/main.ico</file>
+    <file>ico/ico/最小化.png</file>
+  </qresource>
+</RCC>
